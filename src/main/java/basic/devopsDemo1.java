@@ -7,7 +7,7 @@ public class devopsDemo1 {
 
 	}
 	//from branch b1
-public void m1() {
+public void m1() {//branch y for stash demo
 	
 	System.out.println("welcome to devops training - b1");
 }
