@@ -8,9 +8,9 @@ public class devopsDemo1 {
 	}
 	//from branch b1
 
-public void m1() {//create new branch y in git hub for stash demo 
+public void m1() {//create new branch yy in git hub for stash demo 
 
 	
-	System.out.println("welcome to devops training - b1");
+	System.out.println("welcome to devops training - stash demo");
 }
 }
