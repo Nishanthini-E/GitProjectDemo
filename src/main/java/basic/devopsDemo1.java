@@ -2,7 +2,7 @@ package basic;
 
 public class devopsDemo1 {
 
-	public static void main(String[] args) {
+	public static void main(String[] args) {//created from branch c1 for merge conflict assignment
 		System.out.println("HELLO WORLD PROGRAM");
 
 	}
